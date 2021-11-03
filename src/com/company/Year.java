@@ -5,5 +5,4 @@ public enum Year {
         second,
         third,
         fourth
-
 }
